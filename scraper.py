@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-from constants import LEADERBORD_URL
+from constants import LEADERBOARD_URL
 from selenium.webdriver.common.by import By
 from helper import click_load_more,scroll_to_last
 import time
@@ -14,7 +14,7 @@ chrome_options = Options()
 driver = webdriver.Chrome(
     options=chrome_options
 )
-driver.get(LEADERBORD_URL)
+driver.get(LEADERBOARD_URL)
 driver.maximize_window()
 # to get all the data 
 click_load_more(driver)
