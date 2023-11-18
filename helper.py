@@ -15,26 +15,21 @@ def click_load_more(driver):
     except Exception as e:
         print(str(e))
 
-def no_more_loading(driver,times=0):
-    times +=1
-    li_elements = driver.find_elements(By.TAG_NAME,'li')
-    li_num = len(li_elements)
-    elem = driver.find_element(By.TAG_NAME, "html")
-    elem.send_keys(Keys.END)
-    time.sleep(2)
-    li_elements = driver.find_elements(By.TAG_NAME,'li')
-    after_li_num = len(li_elements)
-    print (after_li_num, li_num)
-    return after_li_num > li_num or times==1
-    
-# Assuming 'driver' is your WebDriver instance
-# Make sure to replace this with your actual WebDriver instance
-
-import time
-
 # Repeat scroll-down action until scrollbar is at the bottom
 def scroll_to_last(driver):
-    while no_more_loading(driver):
-        # You can add additional actions or processing here if needed
-        print("Scrolling down...")
-        time.sleep(2)
+    times= 0
+    while True:
+        times+=1
+        li_elements = driver.find_elements(By.TAG_NAME,'li')
+        li_num = len(li_elements)
+        elem = driver.find_element(By.TAG_NAME, "html")
+        # 
+        for _ in range(10):
+           elem.send_keys(Keys.END)
+           time.sleep(1)
+        li_elements = driver.find_elements(By.TAG_NAME,'li')
+        after_li_num = len(li_elements)
+        print (after_li_num, li_num)
+        if after_li_num == li_num  and times > 1:
+            break
+        

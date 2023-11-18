@@ -26,8 +26,8 @@ html_content = driver.page_source
 soup = BeautifulSoup(html_content, 'html.parser')
 ul_elements = soup.find_all("ul",class_ = "km-list")
 lis = ul_elements[2].find_all("li")
-#for li in lis:
-#    print(li.text)
+for li in lis:
+    print(li.text)
 driver.quit()
 
 
