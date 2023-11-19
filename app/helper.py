@@ -1,7 +1,9 @@
 import os
 import pandas as pd
+import streamlit as st
 
 
+@st.cache_data
 def load_data():
     # Get the current script's directory
     current_script_directory = os.path.dirname(__file__)
@@ -26,7 +28,23 @@ def load_data():
             df = pd.read_csv(file_path)
             # add date time from file name
             date_str = file.split('_')[-1].replace('.csv', '')
-            df['date'] = pd.to_datetime(date_str, format="%Y-%m-%d")
+            df['date'] = pd.to_datetime(
+                date_str, format="%Y-%m-%d").normalize()
             combined_data = combined_data._append(df, ignore_index=True)
 
     return combined_data
+
+
+@st.cache_data
+def get_daily_submits(df):
+    grouped = df.groupby('date')
+    daily_submits = grouped['submit_times'].sum()
+    daily_participants = grouped['team_name'].count()
+    return daily_submits, daily_participants
+
+
+@st.cache_data
+def get_latest(df):
+    latest_date = df['date'].max()
+    latest_day_data = df[df['date'] == latest_date]
+    return latest_day_data
