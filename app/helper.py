@@ -40,6 +40,7 @@ def get_daily_submits(df):
     grouped = df.groupby('date')
     daily_submits = grouped['submit_times'].sum()
     daily_participants = grouped['team_name'].count()
+    print(daily_participants)
     return daily_submits, daily_participants
 
 
