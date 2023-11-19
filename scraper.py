@@ -30,7 +30,7 @@ df = df.drop_duplicates(subset=["rank"]).sort_values(by='rank')
 current_datetime = datetime.now()
 # Format the date as a string (optional, depending on your needs)
 current_date_string = current_datetime.strftime("%Y-%m-%d")
-csv_file_path = f"./data/public_leaderboard_{current_date_string}"
+csv_file_path = f"./data/public_leaderboard_{current_date_string}.csv"
 df.to_csv(csv_file_path, index=False)
 
 print(f"CSV file saved at: {csv_file_path}")
