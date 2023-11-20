@@ -2,19 +2,19 @@
 
 ### Description
 
-This repositry helps people track the publick leader board progress of Kaggle Competitions with the power of GitHub Actions. This repositry also includes data visualization application with Streamlit.
+This repository helps people track the public leaderboard progress of Kaggle Competitions with the power of GitHub Actions. This repository also includes a data visualization application with Streamlit.
 
 
 ### How to track Other Leader Board 
-- clone this repositry
+- Fork this repository
 - change the LEADERBOARD_URL to the one you like to track in the constants.py.
-- check the action setting and change work flow permission "read and write permissions" 
-- github actions will run the scraping script and udpate the repositry with newly scraped data
+- check the action setting and change workflow permission "read and write permissions" 
+- GitHub actions will run the scraping script and update the repository with newly scraped data
 - Once the competition is over, you can disable the action.
 
 
 ### Scraping Demo
-if you like to see how selenium scrape the data, you can comment out ```chrome_options.add_argument("--headless")``` in the scraper.py.
+if you like to see how selenium scrapes the data, you can comment out ```chrome_options.add_argument("--headless")``` in the scraper.py.
 After running ```pip install -r requirements.txt```, your can run scraper.py
 
 
