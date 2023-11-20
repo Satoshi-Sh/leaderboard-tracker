@@ -39,9 +39,16 @@ def load_data():
 def get_daily_submits(df):
     grouped = df.groupby('date')
     daily_submits = grouped['submit_times'].sum()
-    daily_participants = grouped['team_name'].count()
-    print(daily_participants)
-    return daily_submits, daily_participants
+    return daily_submits
+
+
+@st.cache_data
+def get_daily_participants_by_rank(df):
+    daily_growth = df.groupby(['date', 'highest_kaggle_rank']).size(
+    ).reset_index(name='participants_count')
+    daily_growth_pivot = daily_growth.pivot(
+        index='date', columns='highest_kaggle_rank', values='participants_count').fillna(0)
+    return daily_growth_pivot
 
 
 @st.cache_data
