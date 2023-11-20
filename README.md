@@ -12,9 +12,14 @@ This repository helps people track the public leaderboard progress of Kaggle Com
 - GitHub actions will run the scraping script and update the repository with newly scraped data
 - Once the competition is over, you can disable the action.
 
+### How to run Streamlit App 
+- Clone the repo in your local machine
+- In the root folder, run ```pip install``` on the virtual environment.
+- Run ```streamlit run main.py``` in the app folder
+- The app will be at http://localhost:8501
 
 ### Scraping Demo
-if you like to see how selenium scrapes the data, you can comment out ```chrome_options.add_argument("--headless")``` in the scraper.py.
+if you would like to see how selenium scrapes the data, you can comment out ```chrome_options.add_argument("--headless")``` in the scraper.py.
 After running ```pip install -r requirements.txt```, your can run scraper.py
 
 
