@@ -1,0 +1,678 @@
+rank,team_name,avatar_url,highest_kaggle_rank,score,submit_times,last_submit
+1,Chinmaya,https://storage.googleapis.com/kaggle-avatars/thumbnails/6064288-kg.jpeg?t=2023-11-14-05-08-34,contributor,0.29813,30,13h
+2,Laurent Pourchot,https://storage.googleapis.com/kaggle-avatars/thumbnails/6191256-kg.jpg,master,0.3,16,6h
+3,FabienPv,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.3,9,13h
+4,noobs,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.30044,2,7h
+5,liuyifan233,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.30095,8,6h
+6,Moatasem sharaf,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.30242,20,2h
+7,Yan Teixeira,https://storage.googleapis.com/kaggle-avatars/thumbnails/13062964-kg.jpeg,expert,0.30444,22,11h
+8,YangAoTian,https://storage.googleapis.com/kaggle-avatars/thumbnails/10594563-kg.jpg?t=2023-11-10-08-38-30,contributor,0.31227,22,6h
+9,Ravi Ramakrishnan,https://storage.googleapis.com/kaggle-avatars/thumbnails/8273630-kg.jpg,grand master,0.31227,17,1d
+10,BrainAI_hwlee,https://storage.googleapis.com/kaggle-avatars/thumbnails/11320172-kg.jpg,contributor,0.31227,20,8h
+11,Anil Yagiz,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.31227,2,21h
+12,Guan Lin Tao,https://storage.googleapis.com/kaggle-avatars/thumbnails/11320249-kg.jpg?t=2023-10-12-15-42-44,expert,0.31227,11,6h
+15,Umair Zia,https://storage.googleapis.com/kaggle-avatars/thumbnails/16064013-kg.jpg,contributor,0.31227,8,4h
+16,Mathurin Aché,https://storage.googleapis.com/kaggle-avatars/thumbnails/18463-kg.png,grand master,0.31227,11,3h
+17,HaoQingSong,https://storage.googleapis.com/kaggle-avatars/thumbnails/9506739-kg.jpg,contributor,0.31227,5,2h
+18,Demian2435,https://storage.googleapis.com/kaggle-avatars/thumbnails/16101251-gr.jpg,contributor,0.31282,6,41m
+19,Gyojoon Gu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.31348,4,5h
+20,YZ,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.31391,15,8h
+21,Kei.Shibata,https://storage.googleapis.com/kaggle-avatars/thumbnails/12024133-kg.png?t=2023-10-22-14-47-25,expert,0.31809,6,3h
+22,Master Jiraiya,https://storage.googleapis.com/kaggle-avatars/thumbnails/13738648-kg.jpg?t=2023-09-11-13-01-47,master,0.31881,20,3h
+23,Ayoola Okunlola,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.32336,13,3h
+24,Hyunguen,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.32689,1,2h
+25,Coffeethefifth,https://storage.googleapis.com/kaggle-avatars/thumbnails/3025820-kg.jpg?t=2023-11-08-12-14-32,contributor,0.32962,22,1d
+26,ITASps,https://storage.googleapis.com/kaggle-avatars/thumbnails/13468784-kg.jpeg?t=2023-11-02-12-00-23,contributor,0.33213,20,13h
+27,Ben Deng,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.33454,8,1h
+28,wnmgrn,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.3351,16,3h
+29,ClsknHolding,https://storage.googleapis.com/kaggle-avatars/thumbnails/4965276-kg.jpg,expert,0.33526,10,2h
+30,Sercan Yeşilöz,https://storage.googleapis.com/kaggle-avatars/thumbnails/2926451-kg.jpg,master,0.33795,5,1d
+31,C.X.Code,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.3384,8,7h
+32,Rei,https://storage.googleapis.com/kaggle-avatars/thumbnails/2085278-kg.jpg,contributor,0.33992,8,3h
+33,HAFIZ MUHAMMAD IMRAN KHAN,https://storage.googleapis.com/kaggle-avatars/thumbnails/4461810-kg.jpg?t=2023-11-18-13-15-56,contributor,0.34033,6,14h
+34,Hamachi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.34064,21,3h
+35,Paul Gris,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.34135,3,11h
+36,Shreyas Sukhadeve IIT,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.34175,3,6m
+37,JATIN CHAWDA,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.34346,2,11m
+38,kglctf,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.34377,11,6h
+39,waticson,https://storage.googleapis.com/kaggle-avatars/thumbnails/2993575-kg.png,expert,0.34564,1,5h
+40,matvikkk,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.34659,13,1d
+41,Emmanuel Jova,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.348,4,40m
+42,Daniel Popov,https://storage.googleapis.com/kaggle-avatars/thumbnails/5394137-kg.png?t=2023-11-11-07-58-38,contributor,0.35116,19,7h
+43,Lucas Antoine,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.35307,12,21h
+44,Ale uy,https://storage.googleapis.com/kaggle-avatars/thumbnails/2708643-kg.JPG?t=2023-09-29-14-34-01,contributor,0.35585,12,20m
+45,Efecan Guler,https://storage.googleapis.com/kaggle-avatars/thumbnails/15622137-kg.png,contributor,0.35776,3,2h
+46,Ludwig Saux,https://storage.googleapis.com/kaggle-avatars/thumbnails/9344127-kg.jpg,contributor,0.36082,7,1h
+47,金穗辉辉,https://storage.googleapis.com/kaggle-avatars/thumbnails/10838391-kg.png,contributor,0.36426,2,1h
+48,alperen yüksel,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.36611,15,3h
+49,kurokaede,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.36662,1,1d
+50,OminousDude,https://storage.googleapis.com/kaggle-avatars/thumbnails/8531166-kg.png?t=2023-10-18-15-24-52,contributor,0.37016,17,11h
+51,Laplace,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.37351,1,2h
+52,Hardy Xu,https://storage.googleapis.com/kaggle-avatars/thumbnails/420768-fb.jpg,contributor,0.37448,15,16h
+53,yunsuxiaozi,https://storage.googleapis.com/kaggle-avatars/thumbnails/12691485-kg.png,expert,0.37494,22,4h
+54,Syed Subahani,https://storage.googleapis.com/kaggle-avatars/thumbnails/16365312-kg.jpg?t=2023-11-15-17-26-22,contributor,0.3794,9,5h
+55,Arman Zhalgasbayev,https://storage.googleapis.com/kaggle-avatars/thumbnails/15526957-kg.jpg,contributor,0.38004,11,11h
+56,Ahmed Ali,https://storage.googleapis.com/kaggle-avatars/thumbnails/14372435-kg.jpg,expert,0.38165,4,2h
+57,Summeriis,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.38168,1,2h
+58,Prasad,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.38321,6,1d
+59,DJ_C,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.38451,13,14h
+60,Vinay S,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.3877,11,10h
+61,sysstem,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.3886,9,2h
+62,dalatar,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.39095,13,9h
+63,bestwater,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.39231,21,11h
+64,Alexander Ryzhkov,https://storage.googleapis.com/kaggle-avatars/thumbnails/19099-fb.jpg,grand master,0.39317,8,1d
+65,Nikolay Abramov,https://storage.googleapis.com/kaggle-avatars/thumbnails/847705-kg.JPG?t=2023-10-11-05-55-21,expert,0.3938,23,6h
+66,Andrew,https://storage.googleapis.com/kaggle-avatars/thumbnails/2217262-gr.jpg,expert,0.3938,9,1d
+67,Sarun P M,https://storage.googleapis.com/kaggle-avatars/thumbnails/17084120-kg.jpeg?t=2023-10-10-05-25-02,contributor,0.3938,7,21h
+68,Jaspar6,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.39394,13,1d
+69,Satya,https://storage.googleapis.com/kaggle-avatars/thumbnails/8185869-kg.jpg?t=2023-10-07-12-43-03,expert,0.39994,23,9h
+70,星瞳,https://storage.googleapis.com/kaggle-avatars/thumbnails/11476684-kg.jpg,contributor,0.4,2,3d
+71,Xwite147,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.4,10,3d
+72,[Deleted] 65254641-9402-43f1-8efe-87420835b87b,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.4,1,1d
+73,Ahmed Mahmoud Salem,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.4,3,17h
+74,Spiritmilk,https://storage.googleapis.com/kaggle-avatars/thumbnails/8060745-kg.jpg,expert,0.40207,1,8m
+75,Gregory Klevans,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.41283,2,3d
+76,Seojin Hwang,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.41283,3,3d
+77,Izzan S. A.,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.41283,2,3d
+78,manymany,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.41283,5,3d
+79,ruthgn,https://storage.googleapis.com/kaggle-avatars/thumbnails/8405416-kg.jpg,expert,0.41283,4,3d
+80,Eishkaran Singh,https://storage.googleapis.com/kaggle-avatars/thumbnails/12605415-kg.jpeg,master,0.41283,1,3d
+81,Sidhved,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.41283,1,2d
+82,Supreme Taker,https://storage.googleapis.com/kaggle-avatars/thumbnails/7074347-kg.PNG,contributor,0.41283,4,1d
+83,AravindPCoder,https://storage.googleapis.com/kaggle-avatars/thumbnails/15219265-kg.jpg?t=2023-11-11-17-24-17,contributor,0.41337,3,21h
+84,Jayron Andrade,https://storage.googleapis.com/kaggle-avatars/thumbnails/16141465-kg.jpg?t=2023-11-18-04-27-54,contributor,0.41442,13,1d
+85,Akio Onodera,https://storage.googleapis.com/kaggle-avatars/thumbnails/4300560-gr.jpg,master,0.41474,17,3d
+86,Shreyash Thengne,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.41503,3,1d
+87,도봉구꼬마,https://storage.googleapis.com/kaggle-avatars/thumbnails/12392398-kg.jpg,contributor,0.41808,5,9h
+88,Chanho Parkq,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.41808,1,10h
+89,PUNIT KAUSHIK,https://storage.googleapis.com/kaggle-avatars/thumbnails/11825285-kg.png?t=2023-10-28-12-08-40,contributor,0.4189,5,3d
+90,Yash Rana,https://storage.googleapis.com/kaggle-avatars/thumbnails/9426740-kg.jpeg,contributor,0.41898,3,3d
+91,Samvel Kocharyan,https://storage.googleapis.com/kaggle-avatars/thumbnails/10356799-gr.jpg,contributor,0.41971,19,8h
+92,Yassir Acharki,https://storage.googleapis.com/kaggle-avatars/thumbnails/10030651-kg.png?t=2023-09-25-16-15-45,master,0.41971,18,3h
+93,matthew-ch,https://storage.googleapis.com/kaggle-avatars/thumbnails/1259738-kg.png,contributor,0.41987,11,4h
+95,enricomanosperti,https://storage.googleapis.com/kaggle-avatars/thumbnails/12029577-kg.png,expert,0.42128,20,3d
+96,Eugeniusz Ananczuk,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.42128,11,4d
+97,norm,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.42258,4,17h
+98,wasjaip,https://storage.googleapis.com/kaggle-avatars/thumbnails/13372827-kg.jpg?t=2023-11-14-04-23-04,contributor,0.42284,5,1d
+99,cj007,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.42366,2,3d
+100,Faris Izzatur Rahman,https://storage.googleapis.com/kaggle-avatars/thumbnails/6095289-kg.jpeg,novice,0.42427,3,4h
+101,Iqman Singh Bhatia,https://storage.googleapis.com/kaggle-avatars/thumbnails/9420368-kg.jpg,master,0.42462,23,8h
+102,Electric Weasle,https://storage.googleapis.com/kaggle-avatars/thumbnails/69150-kg.jpg?t=2023-10-24-20-21-56,contributor,0.4293,7,1d
+103,AbduIIah AItay,https://storage.googleapis.com/kaggle-avatars/thumbnails/5007706-kg.jpg,contributor,0.43047,3,4d
+104,Paulo Álvaro,https://storage.googleapis.com/kaggle-avatars/thumbnails/5245771-gr.jpg,contributor,0.4308,10,20h
+105,Vishwas Saini,https://storage.googleapis.com/kaggle-avatars/thumbnails/15964911-kg.png?t=2023-10-30-13-03-13,contributor,0.43225,6,1h
+106,Oscar Aguilar,https://storage.googleapis.com/kaggle-avatars/thumbnails/1822542-kg.jpg,master,0.43348,25,14h
+107,HridayM25,https://storage.googleapis.com/kaggle-avatars/thumbnails/10793923-kg.jpeg?t=2023-11-16-03-08-02,contributor,0.43407,9,1d
+108,ianct,https://storage.googleapis.com/kaggle-avatars/thumbnails/928167-kg.jpg?t=2023-10-25-09-35-44,expert,0.43415,14,15h
+109,Aman Gupta,https://storage.googleapis.com/kaggle-avatars/thumbnails/1711777-kg.jpg,contributor,0.43467,9,4d
+110,hardy,https://storage.googleapis.com/kaggle-avatars/thumbnails/7013214-kg.png?t=2023-10-23-11-53-22,contributor,0.43527,14,5d
+111,WangChenyu_Math,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.43535,12,3d
+112,Sobhan Bose,https://storage.googleapis.com/kaggle-avatars/thumbnails/11729849-kg.png?t=2023-10-29-14-01-27,contributor,0.43889,10,1d
+113,José Mário,https://storage.googleapis.com/kaggle-avatars/thumbnails/13651687-kg.jpg?t=2023-09-30-16-59-32,contributor,0.44072,14,1d
+114,Jon Blanchard,https://storage.googleapis.com/kaggle-avatars/thumbnails/8077052-kg.png,expert,0.44151,12,3d
+115,greenforest33,https://storage.googleapis.com/kaggle-avatars/thumbnails/11574133-kg.jpg,contributor,0.44197,8,4d
+116,joaozinho22,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.44523,10,1d
+117,alpimarc,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.44544,17,5h
+118,aktk,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.44743,13,3d
+119,munchmon,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.4492,1,1d
+120,DeShuiYu,https://storage.googleapis.com/kaggle-avatars/thumbnails/5521236-kg.png?t=2023-08-23-03-07-07,contributor,0.45343,2,5d
+121,KCDQ,https://storage.googleapis.com/kaggle-avatars/thumbnails/6048011-kg.PNG?t=2023-11-14-16-54-51,contributor,0.45751,3,5d
+122,Rizal Mujahiddan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.45987,3,4d
+123,Jession Diwangan,https://storage.googleapis.com/kaggle-avatars/thumbnails/11276215-gr.jpg,contributor,0.46074,6,3d
+124,Yunus Emre Göktürk,https://storage.googleapis.com/kaggle-avatars/thumbnails/16893239-kg.png?t=2023-09-26-19-21-20,contributor,0.46124,9,26m
+125,Lukman Bayonle Salami,https://storage.googleapis.com/kaggle-avatars/thumbnails/9395509-kg.jpg,contributor,0.46165,17,1h
+126,llorenzo,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.46221,16,2h
+127,pareto80,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.46375,1,3d
+128,Mansour,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.46422,25,2h
+129,Gaurav Dutta,https://storage.googleapis.com/kaggle-avatars/thumbnails/4760409-kg.jpg,master,0.46561,12,2h
+130,future0715,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.46627,23,11h
+131,Ram Jas,https://storage.googleapis.com/kaggle-avatars/thumbnails/6279218-kg.jpg,grand master,0.46699,9,5d
+132,Lucas Pukas,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.46767,3,1d
+133,Swinal Waghmare,https://storage.googleapis.com/kaggle-avatars/thumbnails/11201051-kg.jpg,contributor,0.46823,13,1d
+134,KMnO4-zx,https://storage.googleapis.com/kaggle-avatars/thumbnails/15065802-kg.png?t=2023-10-30-02-28-56,novice,0.46898,3,6d
+135,MAOK-Yongsuk,https://storage.googleapis.com/kaggle-avatars/thumbnails/12106969-kg.png,contributor,0.47059,2,5d
+136,teseralex,https://storage.googleapis.com/kaggle-avatars/thumbnails/11813848-kg.png,contributor,0.4709,2,5d
+137,HyukJunCho,https://storage.googleapis.com/kaggle-avatars/thumbnails/17206135-kg.jpg?t=2023-11-11-16-59-18,novice,0.47333,3,1d
+138,Mukkesh_mk@07,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.47393,4,6d
+139,YD,https://storage.googleapis.com/kaggle-avatars/thumbnails/13028632-kg.jpeg,novice,0.47711,8,5d
+140,andrekos,https://storage.googleapis.com/kaggle-avatars/thumbnails/35830-kg.jpg,expert,0.47755,1,4d
+141,Takumi Watanabe,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.47863,10,4d
+142,ValeryBonneau,https://storage.googleapis.com/kaggle-avatars/thumbnails/8085311-gr.jpg,contributor,0.47947,6,39m
+143,ambrul,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.47989,5,1d
+144,Sumit Kant,https://storage.googleapis.com/kaggle-avatars/thumbnails/614469-kg.jpg,contributor,0.48016,10,1d
+145,Georgios Nikolitsis,https://storage.googleapis.com/kaggle-avatars/thumbnails/8500200-gr.jpg,contributor,0.48248,30,32m
+146,bonobong,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.48336,11,1d
+147,Astitwa Agarwal,https://storage.googleapis.com/kaggle-avatars/thumbnails/5362478-kg.jpeg?t=2023-10-10-04-46-26,expert,0.48367,1,5d
+148,Debamrita Paul,https://storage.googleapis.com/kaggle-avatars/thumbnails/12778221-kg.jpeg,expert,0.48415,8,1h
+149,Fazil Amirli,https://storage.googleapis.com/kaggle-avatars/thumbnails/16053844-kg.jpg?t=2023-11-19-20-55-30,contributor,0.48437,3,1d
+150,panda,https://storage.googleapis.com/kaggle-avatars/thumbnails/1799540-kg.jpg?t=2023-11-20-12-27-53,expert,0.48617,1,3d
+151,Shane Simon,https://storage.googleapis.com/kaggle-avatars/thumbnails/12236136-kg.jpg?t=2023-10-08-11-51-35,expert,0.48618,24,20h
+152,Vishwas Mishra,https://storage.googleapis.com/kaggle-avatars/thumbnails/13972113-kg.jpeg?t=2023-09-10-18-16-22,contributor,0.48632,11,3d
+153,Emirhan Silsüpür,https://storage.googleapis.com/kaggle-avatars/thumbnails/6998541-kg.png,contributor,0.48681,13,2m
+154,Tetsuya Sasaki,https://storage.googleapis.com/kaggle-avatars/thumbnails/6437951-kg.jpeg,master,0.48685,8,6h
+155,Shan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.48723,3,3d
+156,Breno Ingwersen,https://storage.googleapis.com/kaggle-avatars/thumbnails/4822979-kg.jpg?t=2023-10-18-12-16-43,contributor,0.48773,2,1h
+157,k_murano,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.4879,13,6h
+158,Iqbal Syah Akbar,https://storage.googleapis.com/kaggle-avatars/thumbnails/10543899-kg.png,master,0.48854,5,3d
+159,Octavio Grau,https://storage.googleapis.com/kaggle-avatars/thumbnails/6673300-kg.jpg?t=2023-11-10-19-04-03,contributor,0.48854,2,6d
+160,kerry sun,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.48854,1,6d
+161,Thomas,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.48854,4,6d
+162,Talha Barkaat Ahmad,https://storage.googleapis.com/kaggle-avatars/thumbnails/15482152-kg.jpg,expert,0.48854,1,6d
+163,abcsue,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.48854,1,5d
+164,Erik Folkesson,https://storage.googleapis.com/kaggle-avatars/thumbnails/14953148-kg.jpg?t=2023-11-16-10-57-48,contributor,0.48854,2,4d
+165,Francesc Oliveras,https://storage.googleapis.com/kaggle-avatars/thumbnails/11123118-kg.png,master,0.489,1,4d
+166,Akahachi,https://storage.googleapis.com/kaggle-avatars/thumbnails/3811168-kg.png,expert,0.48962,4,1d
+167,mexwell,https://storage.googleapis.com/kaggle-avatars/thumbnails/3952497-kg.jpeg?t=2023-09-10-11-32-10,expert,0.48976,5,6d
+168,PURVI VERMA,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.48989,3,1d
+169,Bryan Le Grand,https://storage.googleapis.com/kaggle-avatars/thumbnails/15764731-kg.png,contributor,0.49007,14,2h
+170,Siddhant Tiwari,https://storage.googleapis.com/kaggle-avatars/thumbnails/17733824-kg.jpeg?t=2023-11-14-15-44-52,contributor,0.4902,7,4d
+171,ComDivRVSN,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.49073,10,11h
+172,Baek nam jin,https://storage.googleapis.com/kaggle-avatars/thumbnails/7802272-kg.jpg?t=2023-10-20-08-23-17,contributor,0.49081,2,6h
+173,Flavia Felicioni,https://storage.googleapis.com/kaggle-avatars/thumbnails/7169360-kg.jpeg,contributor,0.491,1,6d
+174,Natarajan Lalgudi,https://storage.googleapis.com/kaggle-avatars/thumbnails/1274674-gr.jpg,contributor,0.49149,7,4d
+175,ABOUABDALLAH Mohamed Anwar,https://storage.googleapis.com/kaggle-avatars/thumbnails/6124849-gr.jpg,expert,0.49161,5,4d
+176,Semih Günak,https://storage.googleapis.com/kaggle-avatars/thumbnails/15714431-kg.jpg?t=2023-10-23-11-26-37,contributor,0.49186,1,4d
+177,Leung Kam Ho,https://storage.googleapis.com/kaggle-avatars/thumbnails/8413680-kg.JPG?t=2023-11-12-11-58-53,contributor,0.4922,18,1d
+178,kaz184,https://storage.googleapis.com/kaggle-avatars/thumbnails/820032-kg.jpg,novice,0.4922,2,5d
+179,ฺBeater_kung,https://storage.googleapis.com/kaggle-avatars/thumbnails/11418869-kg.png,novice,0.49251,2,3d
+180,kitory Yeah やきとり,https://storage.googleapis.com/kaggle-avatars/thumbnails/11096647-kg.jpeg,contributor,0.49253,8,4d
+181,tdoh86,https://storage.googleapis.com/kaggle-avatars/thumbnails/8063636-kg.jpg,contributor,0.493,6,1d
+182,Lin Jianhang,https://storage.googleapis.com/kaggle-avatars/thumbnails/4139512-kg.jpg,contributor,0.49325,22,39m
+183,keita shimizu,https://storage.googleapis.com/kaggle-avatars/thumbnails/3979455-kg.png?t=2023-11-08-11-35-38,contributor,0.49396,14,2m
+184,jonkussponkt,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49403,9,16h
+185,startech,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.4941,5,3d
+186,Suraj Yerramilli,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.49428,13,1d
+187,Sovina Sahni,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.49463,4,3d
+188,Burhan Yıldız,https://storage.googleapis.com/kaggle-avatars/thumbnails/15502786-kg.jpg?t=2023-10-25-07-56-18,expert,0.49474,6,4d
+189,Jordan Smith,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49483,3,1d
+190,Hangry bunnies,https://storage.googleapis.com/kaggle-avatars/thumbnails/12709918-kg.png,contributor,0.49507,1,4d
+191,Rostyslav Fedorchenko,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49593,7,5d
+192,Kala Nandini,https://storage.googleapis.com/kaggle-avatars/thumbnails/10698603-kg.jpeg?t=2023-11-07-07-32-28,expert,0.49627,10,4d
+193,Waleed Afify,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49627,1,4d
+194,Anushka Chathuranga,https://storage.googleapis.com/kaggle-avatars/thumbnails/6660933-kg.jpg,contributor,0.49627,5,3d
+195,Vignesh Boopathy,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49627,3,4d
+196,shreep,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49627,7,18h
+197,Ulises M.,https://storage.googleapis.com/kaggle-avatars/thumbnails/9660701-kg.jpg,expert,0.49657,17,3d
+198,Artiom Panuș,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49658,15,18h
+199,overfitting learner,https://storage.googleapis.com/kaggle-avatars/thumbnails/3287-gr.jpg,expert,0.4966,3,1h
+200,Mesut Duman,https://storage.googleapis.com/kaggle-avatars/thumbnails/10852641-kg.png,expert,0.49665,20,3d
+201,Ranjitprakash Sundaramurthi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.4967,1,1d
+202,Corentin Vergnolle,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.4967,5,4d
+203,YoanPt,https://storage.googleapis.com/kaggle-avatars/thumbnails/13591190-kg.jpg?t=2023-11-13-18-07-31,contributor,0.49677,4,5d
+204,dima806,https://storage.googleapis.com/kaggle-avatars/thumbnails/846611-kg.jpg,expert,0.49678,20,3d
+205,Hazman Naim,https://storage.googleapis.com/kaggle-avatars/thumbnails/15864390-kg.jpg?t=2023-11-19-08-35-41,contributor,0.49697,1,1h
+206,GanLewis,https://storage.googleapis.com/kaggle-avatars/thumbnails/8392782-kg.jpg,novice,0.49697,1,1d
+207,Liza Kolesnik,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.49706,3,8m
+208,Trish Cornelissen,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.49723,11,20h
+209,Danila Kuryakin,https://storage.googleapis.com/kaggle-avatars/thumbnails/11534909-kg.jpg?t=2023-08-29-12-19-26,contributor,0.49726,6,1d
+210,Yang Zhou,https://storage.googleapis.com/kaggle-avatars/thumbnails/10714201-kg.jpg,expert,0.49771,15,7h
+211,Alexander Grebennikov,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.49772,2,6d
+212,xlforml,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49799,2,7d
+213,LIUHAHA1888,https://storage.googleapis.com/kaggle-avatars/thumbnails/16176083-kg.jpeg?t=2023-08-26-13-54-47,expert,0.49799,1,6d
+214,Nizar Bd,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.49815,7,5d
+215,russell gilbert,https://storage.googleapis.com/kaggle-avatars/thumbnails/6272529-kg.jpg,contributor,0.49841,15,2h
+216,Satti Tareq,https://storage.googleapis.com/kaggle-avatars/thumbnails/8347145-kg.jpg,contributor,0.49851,3,1d
+217,Jose Elisei,https://storage.googleapis.com/kaggle-avatars/thumbnails/16558844-kg.jpg?t=2023-09-05-18-15-01,contributor,0.49869,4,4d
+218,Vic710,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49873,11,3h
+219,Huseyin Baytar,https://storage.googleapis.com/kaggle-avatars/thumbnails/15693244-kg.png,expert,0.4991,7,4d
+220,NinjaInDS,https://storage.googleapis.com/kaggle-avatars/thumbnails/14190061-kg.jpeg,novice,0.49916,8,15h
+221,Shayan Tohidi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.49922,9,11h
+222,stupid-topson,https://storage.googleapis.com/kaggle-avatars/thumbnails/6738489-kg.png,novice,0.5,4,6d
+223,Siddhant Gupta,https://storage.googleapis.com/kaggle-avatars/thumbnails/2423296-fb.jpg,contributor,0.5,2,5d
+224,Anubhav Tyagi1212,https://storage.googleapis.com/kaggle-avatars/thumbnails/4619806-gr.jpg,contributor,0.5,9,5d
+225,Jan Gliwa,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.5,5,4d
+226,Pramodia Suka,https://storage.googleapis.com/kaggle-avatars/thumbnails/6687942-kg.jpg?t=2023-11-09-03-54-17,contributor,0.5,2,4d
+227,Jebin,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.5,7,2h
+228,Thomas Meißner,https://storage.googleapis.com/kaggle-avatars/thumbnails/5772729-kg.jpg,expert,0.5,25,3h
+229,mbalos,https://storage.googleapis.com/kaggle-avatars/thumbnails/7311460-kg.jpg?t=2023-11-15-13-28-20,contributor,0.5,5,1d
+230,surankande23,https://storage.googleapis.com/kaggle-avatars/thumbnails/6374055-kg.jpg,contributor,0.5,8,1d
+231,Magdi El-Sharkawy,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.5,4,16h
+232,Mohamed Ayoub Chettouh,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.5,2,1d
+233,zenomoung,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.5,7,7h
+234,Michael DeVore,https://storage.googleapis.com/kaggle-avatars/thumbnails/4825952-kg.png?t=2023-10-29-17-27-26,novice,0.5,1,7h
+235,Vladimir Kuchin 634,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.5,4,1d
+236,Robert Robison,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50007,5,3d
+237,Oran11,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50017,4,5d
+238,Anthony-B2,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50028,3,5h
+239,rockieCao,https://storage.googleapis.com/kaggle-avatars/thumbnails/501321-kg.png?t=2023-10-24-21-14-06,novice,0.50037,3,13h
+240,Chris X,https://storage.googleapis.com/kaggle-avatars/thumbnails/1330628-kg.jpg,master,0.5004,12,1d
+241,Azrulle,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50097,1,5d
+242,Taichi Uemura,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50131,5,33m
+243,k4nz1,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50142,2,1d
+244,Ricardo Haus,https://storage.googleapis.com/kaggle-avatars/thumbnails/4702389-gr.jpg,novice,0.50156,21,2d
+245,Anna,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50261,1,4d
+246,ByTheRyan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50361,2,5d
+247,Adrian Li,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50368,2,1d
+248,chinny84,https://storage.googleapis.com/kaggle-avatars/thumbnails/149296-kg.png,novice,0.504,5,16h
+249,Mandritsa Mikhail,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50432,6,11h
+250,SciCapt,https://storage.googleapis.com/kaggle-avatars/thumbnails/17458185-kg.jpg?t=2023-10-29-23-48-09,contributor,0.50436,5,6d
+251,Matthew Jansen,https://storage.googleapis.com/kaggle-avatars/thumbnails/4209683-kg.jpg?t=2023-11-04-11-54-41,expert,0.50478,3,6d
+252,Nikolay Zmitrovich,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50484,5,1d
+253,pollodelmar,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50496,13,10h
+254,higo_DM2,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50598,6,4d
+255,Hryk Hmgch,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50618,11,1h
+256,hoppyy,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50624,6,12h
+257,gruliju,https://storage.googleapis.com/kaggle-avatars/thumbnails/8815801-kg.jpg?t=2023-10-15-15-07-48,contributor,0.50678,6,5d
+258,Shingo Sadahiro,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50761,1,4d
+259,Steve Steinacker,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50776,2,3d
+260,Fengqian,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.50786,4,1d
+261,R Kraig Helmeczi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50796,6,20h
+262,Yusheng Lei,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50832,4,6d
+263,Adam Michalak,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.50863,6,4d
+265,Vivek Revi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.51,10,10h
+266,LeslieM,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.51061,1,4d
+267,Atiq Ishrak,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.51104,2,31m
+268,Bertan Pank,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.51113,3,5d
+269,JR & GT,https://storage.googleapis.com/kaggle-avatars/thumbnails/8126128-kg.png,contributor,0.51138,1,16h
+270,Ilya Bukhansky,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.51154,11,4d
+271,Evseev Sergey,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.51176,1,5d
+272,Andrei Lazanu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.51225,5,4d
+273,C4rl05/V,https://storage.googleapis.com/kaggle-avatars/thumbnails/621084-kg.JPG,master,0.5127,7,10h
+274,Harmandeep Singh Padam,https://storage.googleapis.com/kaggle-avatars/thumbnails/10774195-kg.jpeg?t=2023-08-28-18-57-08,expert,0.51336,4,3d
+275,Abhishek,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.51359,1,5h
+276,BajpaiDev,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.51367,6,3d
+277,zeme3000,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.51457,4,5d
+278,nosafromvn,https://storage.googleapis.com/kaggle-avatars/thumbnails/16980637-gr.jpg,novice,0.51485,3,6d
+279,CommonGardeniaM,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.51539,11,4d
+280,hongjiao liu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.51607,2,4d
+281,Rizky Anugrah Ananto,https://storage.googleapis.com/kaggle-avatars/thumbnails/7541229-kg.jpg,expert,0.51684,1,5d
+282,Andre Endress,https://storage.googleapis.com/kaggle-avatars/thumbnails/8665886-kg.jpg,contributor,0.51724,5,18h
+283,ines_motaR,https://storage.googleapis.com/kaggle-avatars/thumbnails/17092950-kg.jpg?t=2023-10-13-18-25-14,novice,0.51981,1,5d
+284,Sohan Kumar Sahoo,https://storage.googleapis.com/kaggle-avatars/thumbnails/16626322-kg.jpg?t=2023-11-13-03-10-05,novice,0.51982,14,9h
+285,Серей Кисиль,https://storage.googleapis.com/kaggle-avatars/thumbnails/6182659-kg.jpg,contributor,0.51988,10,5d
+286,zhijie x,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.52004,1,1d
+287,K R Bharat,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.52035,3,1d
+288,BasyaKuE,https://storage.googleapis.com/kaggle-avatars/thumbnails/3090129-fb.jpg,contributor,0.52046,1,5d
+289,Reading Hui,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.52048,4,3d
+290,Ahmed Gouda,https://storage.googleapis.com/kaggle-avatars/thumbnails/12369073-kg.png?t=2023-11-12-11-15-26,contributor,0.52128,3,6d
+291,Fabian Bong,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.5214,5,6d
+292,dj2020,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.522,8,1d
+293,silinr8,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.52335,9,1d
+294,Rahul Devendra,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.52372,1,5d
+295,MikeSas,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.524,3,6d
+296,Dohyun Ko,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.52529,1,1d
+297,Arpit P. Patel,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.52564,1,3h
+298,zhuoqunli,https://storage.googleapis.com/kaggle-avatars/thumbnails/11486426-kg.jpg?t=2023-10-01-08-43-14,expert,0.52738,13,1d
+299,ahmed abbas,https://storage.googleapis.com/kaggle-avatars/thumbnails/9731621-kg.jpeg?t=2023-10-19-15-01-16,expert,0.52785,4,17h
+300,ZhuJingnan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.5284,4,14h
+301,Kishore Ramakrishnan,https://storage.googleapis.com/kaggle-avatars/thumbnails/5251797-kg.jpg?t=2023-11-17-07-14-29,novice,0.53026,5,4d
+302,Jason,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.53044,1,2d
+303,Momotanlian,https://storage.googleapis.com/kaggle-avatars/thumbnails/7248934-kg.jpg,contributor,0.53067,8,8h
+304,Giuliano Giari,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.53157,1,17h
+305,toshidasu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.53184,1,1d
+306,Uyen Thi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.53382,9,3d
+307,Mateusz Kowalczyk,https://storage.googleapis.com/kaggle-avatars/thumbnails/13251128-kg.jpg?t=2023-09-20-14-11-06,master,0.53518,3,21h
+308,Rajeev Nair,https://storage.googleapis.com/kaggle-avatars/thumbnails/7428731-kg.png,expert,0.53563,5,1h
+309,Pruvost Michael,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.53784,2,5d
+310,ainj_hamn526,https://storage.googleapis.com/kaggle-avatars/thumbnails/7971927-kg.png,novice,0.53794,3,3h
+311,Kentanz,https://storage.googleapis.com/kaggle-avatars/thumbnails/7836727-kg.JPG,contributor,0.5407,17,2h
+312,kesavan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.54106,4,3d
+313,Lornar The Breton,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.54237,6,4d
+314,Bryan Harris,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.54358,8,3d
+315,Folli,https://storage.googleapis.com/kaggle-avatars/thumbnails/62080-kg.jpg,contributor,0.55,2,6d
+316,Gautam,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.55047,6,3h
+317,Chagin,https://storage.googleapis.com/kaggle-avatars/thumbnails/7278999-kg.png?t=2023-10-10-02-06-04,contributor,0.55095,4,5d
+318,Umut Kaan Demirtaş,https://storage.googleapis.com/kaggle-avatars/thumbnails/10486440-kg.jpeg,contributor,0.55291,10,15h
+319,sunny77,https://storage.googleapis.com/kaggle-avatars/thumbnails/9944976-gr.jpg,contributor,0.55444,2,4d
+320,Sean Parry,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.55593,2,6d
+321,StrawHatDragon,https://storage.googleapis.com/kaggle-avatars/thumbnails/1212397-kg.jpg,contributor,0.556,2,3d
+322,Djilax,https://storage.googleapis.com/kaggle-avatars/thumbnails/896113-kg.png,contributor,0.55805,1,3d
+323,Tuhinm2002,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.55863,11,10h
+324,Shivansh Gupta,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.55969,15,10h
+325,Simone Zappatini,https://storage.googleapis.com/kaggle-avatars/thumbnails/16215371-kg.png?t=2023-10-20-18-04-31,contributor,0.56102,5,3d
+326,Ridwan Amokun,https://storage.googleapis.com/kaggle-avatars/thumbnails/7384607-kg.jpg,novice,0.56132,2,4d
+327,Alexander Andreev,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.56264,1,14h
+328,Mind Of logical fire,https://storage.googleapis.com/kaggle-avatars/thumbnails/13207212-kg.jpg?t=2023-09-02-06-52-54,novice,0.56291,4,4d
+329,Ruturaj patil,https://storage.googleapis.com/kaggle-avatars/thumbnails/5895914-kg.jpg,contributor,0.56654,1,4d
+330,JordiGerry,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.568,4,1d
+331,noitcA,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.56944,3,3d
+332,Mr. Data Wheeler,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.57,2,4d
+333,yuji,https://storage.googleapis.com/kaggle-avatars/thumbnails/6456830-kg.jpg,contributor,0.57889,7,3h
+334,Sebastian Dirndorfer,https://storage.googleapis.com/kaggle-avatars/thumbnails/7341746-kg.jpg,contributor,0.58134,5,1d
+335,Faisal Alsrheed,https://storage.googleapis.com/kaggle-avatars/thumbnails/4122826-kg.jpeg,master,0.58518,1,6d
+336,AiDeeSiS,https://storage.googleapis.com/kaggle-avatars/thumbnails/10736305-gr.jpg,contributor,0.58562,1,1d
+337,Wolf,https://storage.googleapis.com/kaggle-avatars/thumbnails/1529426-kg.jpg,contributor,0.58716,4,1d
+338,Angel,https://storage.googleapis.com/kaggle-avatars/thumbnails/2768965-kg.png,novice,0.58728,1,4d
+339,Soumyadeep Bose,https://storage.googleapis.com/kaggle-avatars/thumbnails/15053853-kg.jpg,contributor,0.58965,9,3d
+340,Ivan Krokhalyov,https://storage.googleapis.com/kaggle-avatars/thumbnails/3390876-kg.jpg,contributor,0.59017,11,4h
+341,Sumanta Basak,https://storage.googleapis.com/kaggle-avatars/thumbnails/438748-kg.jpg,contributor,0.59131,1,1h
+342,Barbagrande007,https://storage.googleapis.com/kaggle-avatars/thumbnails/7958366-kg.png,expert,0.59249,3,1d
+343,Setyo,https://storage.googleapis.com/kaggle-avatars/thumbnails/6294389-kg.png,contributor,0.59335,1,9h
+344,Alexander Kapturov,https://storage.googleapis.com/kaggle-avatars/thumbnails/10074224-kg.JPG?t=2023-08-28-01-14-41,expert,0.59417,14,21h
+345,mobu and friends,https://storage.googleapis.com/kaggle-avatars/thumbnails/5782545-kg.jpg,contributor,0.59483,14,15h
+346,ML_Magic,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.59696,5,7h
+347,kogni7,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.59739,10,1h
+348,stpete_ishii,https://storage.googleapis.com/kaggle-avatars/thumbnails/2648923-gr.jpg,expert,0.59772,25,44m
+349,Marius Borel,https://storage.googleapis.com/kaggle-avatars/thumbnails/10060125-kg.png,contributor,0.59794,2,7h
+350,Marcus Chan,https://storage.googleapis.com/kaggle-avatars/thumbnails/6441866-kg.png,expert,0.59837,2,7d
+351,Brandon Young,https://storage.googleapis.com/kaggle-avatars/thumbnails/16731011-kg.png?t=2023-10-15-01-37-04,contributor,0.59848,9,15h
+352,Yusuf DİNÇ,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.59877,3,4d
+353,Nikhil Sharma,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.59882,4,2h
+354,Catadanna,https://storage.googleapis.com/kaggle-avatars/thumbnails/3616012-kg.jpg,expert,0.59903,14,1d
+355,Fabia NIvel,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.59912,4,3d
+356,Tanner Cabaniss,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.59922,2,13h
+357,napam689,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.59956,11,3d
+358,Arin,https://storage.googleapis.com/kaggle-avatars/thumbnails/3510115-kg.JPG,contributor,0.6,15,8h
+359,Thao nguyen trang,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.60314,4,1d
+360,Fadhl Akmal,https://storage.googleapis.com/kaggle-avatars/thumbnails/13971765-kg.png,contributor,0.60458,7,13h
+361,Hikmatullah Mohammadi,https://storage.googleapis.com/kaggle-avatars/thumbnails/6506601-kg.jpg,expert,0.60463,5,1d
+362,Mukul Agarwal,https://storage.googleapis.com/kaggle-avatars/thumbnails/1284127-kg.jpg,contributor,0.6048,10,1d
+363,nathankim0917,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.60638,1,3d
+364,KLYUSHNIK-Alexsandr,https://storage.googleapis.com/kaggle-avatars/thumbnails/8902338-kg.jpg,expert,0.60639,19,21m
+365,Sukanta Basu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.60731,2,1d
+366,Matthew Hetzel,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.60784,3,21h
+367,"I'm jobless, please hire me",https://storage.googleapis.com/kaggle-avatars/thumbnails/5217865-kg.jpg?t=2023-11-01-12-42-37,contributor,0.60893,4,4d
+368,Ali Bavi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.60899,5,3d
+369,Damian Szafert,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.60916,2,1d
+370,ArnoldRosielle,https://storage.googleapis.com/kaggle-avatars/thumbnails/708454-fb.jpg,contributor,0.61053,3,18h
+371,Ariadne Alkiviade,https://storage.googleapis.com/kaggle-avatars/thumbnails/12425072-kg.png?t=2023-10-12-21-07-26,novice,0.61128,1,4d
+372,Johannes Roed,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61188,3,3d
+373,Da_Vinci_Code,https://storage.googleapis.com/kaggle-avatars/thumbnails/8359875-kg.png,contributor,0.61246,4,6d
+374,saeusa,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.6127,5,8h
+375,Mikolaj_Kloczewski,https://storage.googleapis.com/kaggle-avatars/thumbnails/17329300-kg.jpg?t=2023-11-18-10-12-31,novice,0.61277,4,17h
+376,ChrisK321,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,expert,0.61285,9,1h
+377,Jackie96,https://storage.googleapis.com/kaggle-avatars/thumbnails/9060441-kg.png?t=2023-09-18-05-36-18,novice,0.61362,10,12h
+378,Mirko Martens,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61449,1,3d
+379,T.Takeshi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61463,1,7h
+380,Konstantin Belousov,https://storage.googleapis.com/kaggle-avatars/thumbnails/10281910-kg.jpg,contributor,0.61466,3,5d
+381,Sujal Neupane,https://storage.googleapis.com/kaggle-avatars/thumbnails/12868435-kg.jpg?t=2023-10-25-07-11-44,expert,0.61483,6,40m
+382,kavani,https://storage.googleapis.com/kaggle-avatars/thumbnails/4145776-kg.jpeg?t=2023-11-17-06-59-59,contributor,0.61492,9,1d
+383,AYAHM BARISH,https://storage.googleapis.com/kaggle-avatars/thumbnails/2582300-kg.jpg,expert,0.615,4,1d
+384,AkshatSG,https://storage.googleapis.com/kaggle-avatars/thumbnails/13441615-kg.jpg?t=2023-10-20-21-43-34,contributor,0.61517,3,5d
+385,VenturaRaee,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61601,2,6d
+386,MENGFL,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.61601,4,1d
+387,Luke Flannigan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61681,2,3d
+388,Rayyan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61682,4,1d
+389,dolphine,https://storage.googleapis.com/kaggle-avatars/thumbnails/11881209-kg.jpeg?t=2023-11-04-06-50-10,contributor,0.6174,1,5d
+390,Jim Gruman,https://storage.googleapis.com/kaggle-avatars/thumbnails/6765218-kg.jpg?t=2023-10-07-11-40-02,expert,0.61811,4,1d
+391,KavanAlp,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61827,1,3d
+392,Vladislav Sergeenko,https://storage.googleapis.com/kaggle-avatars/thumbnails/8890176-gr.jpg,novice,0.61861,4,6d
+393,Chovy.Xu,https://storage.googleapis.com/kaggle-avatars/thumbnails/13627718-kg.jpg?t=2023-10-24-04-51-09,contributor,0.61943,1,1d
+394,300425-ภัคพล,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.61955,1,3d
+395,InDisQualified,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.61964,5,1d
+396,SunilKumarAdapa,https://storage.googleapis.com/kaggle-avatars/thumbnails/17184229-kg.jpg?t=2023-11-02-02-40-55,contributor,0.61967,8,2h
+397,tsunta_m,https://storage.googleapis.com/kaggle-avatars/thumbnails/5642817-kg.png,novice,0.61999,5,3d
+398,Nick Kappler,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.62,1,14h
+399,the-usman,https://storage.googleapis.com/kaggle-avatars/thumbnails/16397168-gr.jpg,contributor,0.62081,5,3d
+400,Abhishek Upmanyu,https://storage.googleapis.com/kaggle-avatars/thumbnails/1493966-fb.jpg,novice,0.62099,2,3d
+401,Pulkit Mehta,https://storage.googleapis.com/kaggle-avatars/thumbnails/2980413-kg.jpg,expert,0.621,1,1d
+402,Tony Yun Yang99,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.621,5,15h
+403,partycia,https://storage.googleapis.com/kaggle-avatars/thumbnails/10046955-kg.jpg,expert,0.62153,1,5d
+404,beastar3104,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.62191,6,4d
+405,Van C,https://storage.googleapis.com/kaggle-avatars/thumbnails/10364535-kg.png,contributor,0.62199,2,4d
+406,mode-01,https://storage.googleapis.com/kaggle-avatars/thumbnails/13887593-kg.png,contributor,0.62248,4,4d
+407,Sonaal Pathlai Pradeep,https://storage.googleapis.com/kaggle-avatars/thumbnails/3370289-kg.jpeg?t=2023-11-19-05-26-40,contributor,0.62284,4,1d
+408,Shawn Carere,https://storage.googleapis.com/kaggle-avatars/thumbnails/1648653-kg.jpg,contributor,0.62288,1,3d
+409,G Jagadeesh,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.6235,2,3d
+410,Medhansh Rawat,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.62353,7,3d
+411,Suraj Yadav,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.62377,3,1d
+412,Lucas Thompson,https://storage.googleapis.com/kaggle-avatars/thumbnails/1884510-fb.jpg,novice,0.624,2,2d
+413,Edgar,https://storage.googleapis.com/kaggle-avatars/thumbnails/392856-gr.jpg,novice,0.62479,7,2h
+414,Chloe Pomeroy,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.62525,4,5d
+415,Rohit Dwivedula,https://storage.googleapis.com/kaggle-avatars/thumbnails/5431208-kg.jpeg,contributor,0.62581,6,4d
+416,Biel ABS,https://storage.googleapis.com/kaggle-avatars/thumbnails/3953741-gr.jpg,novice,0.626,4,17h
+417,Tcheneghon Motcheyo Herman,https://storage.googleapis.com/kaggle-avatars/thumbnails/8591554-kg.png?t=2023-11-19-16-21-38,contributor,0.62612,1,20h
+418,Ajatshatru Mishra,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.62616,3,4d
+419,Vineed Biju,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.62639,1,1d
+420,Vadim Fedorov,https://storage.googleapis.com/kaggle-avatars/thumbnails/1540171-kg.jpg?t=2023-10-04-15-45-05,contributor,0.62648,4,4d
+421,Ahmed Okka,https://storage.googleapis.com/kaggle-avatars/thumbnails/10015189-kg.jpg?t=2023-09-02-18-58-21,contributor,0.62672,1,7d
+422,Seeker CHiou,https://storage.googleapis.com/kaggle-avatars/thumbnails/1958266-gp.jpg,contributor,0.62714,2,4d
+423,dee dee,https://storage.googleapis.com/kaggle-avatars/thumbnails/15766096-kg.png?t=2023-11-03-08-12-21,expert,0.62739,5,6d
+424,Abhijit Darekar,https://storage.googleapis.com/kaggle-avatars/thumbnails/10908441-kg.jpg,expert,0.62745,2,3d
+425,Hayri Latif,https://storage.googleapis.com/kaggle-avatars/thumbnails/2823707-kg.png,contributor,0.62816,4,4d
+426,hyesung6,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.62836,5,5d
+427,Shohei Aoki,https://storage.googleapis.com/kaggle-avatars/thumbnails/41013-gr.jpg,contributor,0.62853,1,1d
+428,karlb3030,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.62857,8,1d
+429,Jing Yu Lim,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.62899,2,4d
+430,Minerva Queens,https://storage.googleapis.com/kaggle-avatars/thumbnails/13153903-kg.png,contributor,0.62943,3,5d
+431,Jocelyn Dumlao,https://storage.googleapis.com/kaggle-avatars/thumbnails/7212220-kg.png,expert,0.63,3,5h
+432,khashi20,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63003,1,3d
+433,GEORGE DOUKAS,https://storage.googleapis.com/kaggle-avatars/thumbnails/6573070-kg.jpg,contributor,0.63072,3,6d
+434,Ashish C,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63099,2,4d
+435,persaeus,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63125,11,3d
+436,Hazel,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63138,13,1d
+437,Tatiana K.,https://storage.googleapis.com/kaggle-avatars/thumbnails/11559138-kg.jpg?t=2023-11-01-16-56-27,contributor,0.6315,3,3d
+438,NBPub,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63191,2,5d
+439,kjihwan,https://storage.googleapis.com/kaggle-avatars/thumbnails/2933330-kg.jpg?t=2023-10-04-04-37-16,contributor,0.63208,6,1d
+440,Bhima Boiii,https://storage.googleapis.com/kaggle-avatars/thumbnails/14393673-kg.jpg?t=2023-08-25-17-23-18,contributor,0.63217,5,3d
+441,João Paulo von Gilsa Lopes,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63267,3,4d
+442,Yee Mei Tsang,https://storage.googleapis.com/kaggle-avatars/thumbnails/11474584-kg.jpeg,contributor,0.63287,3,4d
+443,MeatShizzle,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63287,1,4d
+444,seunghwan0987,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63287,1,1d
+445,gabriel buchhorn,https://storage.googleapis.com/kaggle-avatars/thumbnails/7818039-kg.jpg,expert,0.63287,3,16h
+446,Andy,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63294,5,16m
+447,Srushanth Baride,https://storage.googleapis.com/kaggle-avatars/thumbnails/7535830-kg.jpg?t=2023-10-16-20-05-42,contributor,0.63299,10,4d
+448,gigity,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63324,5,8h
+449,hohohoz,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63346,2,3d
+450,Jerzy Wieczorek,https://storage.googleapis.com/kaggle-avatars/thumbnails/13450198-kg.jpg,novice,0.63346,7,5d
+451,Thilak Mohan,https://storage.googleapis.com/kaggle-avatars/thumbnails/7582780-kg.jpg,contributor,0.63389,2,5d
+452,Chomba Waihenya,https://storage.googleapis.com/kaggle-avatars/thumbnails/2591483-kg.png,contributor,0.634,4,3d
+453,Seanny,https://storage.googleapis.com/kaggle-avatars/thumbnails/4178136-kg.png?t=2023-10-23-19-05-02,contributor,0.63425,5,3h
+454,Ivan Plotnikov,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63483,7,3d
+455,Alex Dstory,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63484,4,5d
+456,Hongryeol Gil,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63495,2,6h
+457,Eddie Amimo,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.635,3,1d
+458,ConorD,https://storage.googleapis.com/kaggle-avatars/thumbnails/592410-fb.jpg,contributor,0.63586,2,13h
+459,MohamedFarouk,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63609,1,6d
+460,Shi ,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63613,6,7h
+461,Munch96,https://storage.googleapis.com/kaggle-avatars/thumbnails/15741323-kg.jpg?t=2023-11-14-17-09-50,contributor,0.63699,4,6d
+462,Mohammadamin Salimi,https://storage.googleapis.com/kaggle-avatars/thumbnails/5943383-kg.JPG,novice,0.637,3,17h
+463,sukhdeepg,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.637,2,4d
+464,AIVILLAIN,https://storage.googleapis.com/kaggle-avatars/thumbnails/1668397-kg.jpg,contributor,0.637,3,1d
+465,Uzair Shafique,https://storage.googleapis.com/kaggle-avatars/thumbnails/9971502-kg.jpg?t=2023-11-18-13-51-09,contributor,0.637,7,7h
+466,Zonit L.,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63705,2,1d
+467,NATCHA PHONKAMHAENG,https://storage.googleapis.com/kaggle-avatars/thumbnails/11789779-kg.jpg,novice,0.63724,4,11m
+468,SpectreSpect,https://storage.googleapis.com/kaggle-avatars/thumbnails/15003351-kg.jpg,contributor,0.63765,4,4d
+469,rossy114,https://storage.googleapis.com/kaggle-avatars/thumbnails/1559545-kg.png,contributor,0.638,10,2d
+470,Matteo Anzano,https://storage.googleapis.com/kaggle-avatars/thumbnails/13901569-kg.jpg?t=2023-10-31-12-52-11,contributor,0.63807,1,4d
+471,Angelo Rosu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63856,4,5d
+472,Damjan Kostovic,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63866,5,2h
+473,Just4Fun,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63896,1,2d
+474,shadechen,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.639,3,9h
+475,benjamin choi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63932,3,3d
+476,AaronAlbrecht,https://storage.googleapis.com/kaggle-avatars/thumbnails/17620523-kg.png?t=2023-11-17-03-29-11,novice,0.63937,6,11h
+477,Thomas James Little,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.63957,1,6d
+478,Rodda Sai Chaitanya,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63974,1,1d
+479,Asmaa Nasr,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.63988,3,6d
+480,Manav,https://storage.googleapis.com/kaggle-avatars/thumbnails/2593605-gp.jpg,expert,0.63998,1,5d
+481,Neddy Avgha,https://storage.googleapis.com/kaggle-avatars/thumbnails/16435342-gr.jpg,contributor,0.64,1,2h
+482,Anzar,https://storage.googleapis.com/kaggle-avatars/thumbnails/2949515-kg.jpg,expert,0.64009,4,3d
+483,Puneet681,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.64068,1,6d
+484,Joerg_H,https://storage.googleapis.com/kaggle-avatars/thumbnails/3510320-kg.jpg,contributor,0.641,6,20h
+485,MOKSH BAWEJA,https://storage.googleapis.com/kaggle-avatars/thumbnails/13836891-kg.jpg,expert,0.64169,9,5d
+486,Hasibullah Aman,https://storage.googleapis.com/kaggle-avatars/thumbnails/10981929-kg.jpg,expert,0.64197,8,4d
+487,PeterGrundell,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.642,1,6d
+488,Ruken Missonnier,https://storage.googleapis.com/kaggle-avatars/thumbnails/13896785-kg.jpeg,expert,0.64243,3,5d
+489,LCthur,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.64267,1,1d
+490,Jordan Burch,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.64307,5,3d
+491,Ahmed Samir,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.64399,1,5d
+492,Rivuprovo De,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.64499,4,1d
+493,Androval,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.645,3,4d
+494,Pankaj Tiwari,https://storage.googleapis.com/kaggle-avatars/thumbnails/11071088-kg.jpg?t=2023-10-29-14-29-48,contributor,0.64528,3,5d
+495,iko070,https://storage.googleapis.com/kaggle-avatars/thumbnails/3245987-kg.jpg,contributor,0.6453,1,5h
+496,Zonwie,https://storage.googleapis.com/kaggle-avatars/thumbnails/9977553-kg.jpg,contributor,0.6464,5,1d
+497,Drew Josselyn,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.64656,6,18h
+498,Jacob Morsch,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.64853,2,4d
+499,THANAPAT SRIPET,https://storage.googleapis.com/kaggle-avatars/thumbnails/14759047-kg.jpg?t=2023-10-17-08-01-43,novice,0.64868,1,6d
+500,Steve Simons,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.64908,1,19h
+501,Swain Wang,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.64963,1,5d
+502,Rafael Magnusson,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.6499,4,4d
+503,interests,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.65009,3,20h
+504,wngus_,https://storage.googleapis.com/kaggle-avatars/thumbnails/10614289-kg.jpeg,expert,0.65057,7,1h
+505,cleanupDev,https://storage.googleapis.com/kaggle-avatars/thumbnails/14451853-gr.jpg,novice,0.65057,5,3d
+506,Akanksha Sharma,https://storage.googleapis.com/kaggle-avatars/thumbnails/2130947-gp.jpg,contributor,0.651,3,11h
+507,Zachary Hunter Pate,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65172,1,6d
+508,FatManJuozas,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.652,3,1d
+509,TerenceFu,https://storage.googleapis.com/kaggle-avatars/thumbnails/12480687-kg.JPG,contributor,0.652,1,3d
+510,Paweł Wacławik,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65214,6,6h
+511,sardinetrawler,https://storage.googleapis.com/kaggle-avatars/thumbnails/5810392-kg.png,contributor,0.65275,5,6d
+512,Ethem Emir Büyükerken,https://storage.googleapis.com/kaggle-avatars/thumbnails/6481735-kg.png?t=2023-11-02-21-17-06,contributor,0.65285,3,5d
+513,Mihir Shah,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65299,2,1d
+514,Neonemaj,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65344,2,21h
+515,Alexey Kudelckin,https://storage.googleapis.com/kaggle-avatars/thumbnails/11865140-kg.jpg,contributor,0.65403,1,3d
+516,PiKaaa,https://storage.googleapis.com/kaggle-avatars/thumbnails/12724858-kg.jpg?t=2023-11-16-11-43-12,contributor,0.65485,3,4d
+517,Henrik Horpedal,https://storage.googleapis.com/kaggle-avatars/thumbnails/16913677-kg.png?t=2023-09-28-17-23-04,novice,0.65505,1,5d
+518,Tensor Boy,https://storage.googleapis.com/kaggle-avatars/thumbnails/14547994-kg.jpg,expert,0.65573,1,3h
+519,CarTerran,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65596,3,5d
+520,kenzou,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.6563,1,5d
+521,Miguel Santiago Azuero Melo,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.6565,4,1d
+522,01,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65654,3,6d
+523,Ali Can Payaslı,https://storage.googleapis.com/kaggle-avatars/thumbnails/6910373-kg.jpg?t=2023-10-30-06-24-56,expert,0.65668,3,2h
+524,Yishai_C,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65822,2,1d
+525,Anopsy,https://storage.googleapis.com/kaggle-avatars/thumbnails/11834907-kg.jpg?t=2023-11-06-17-04-37,contributor,0.65871,1,3d
+526,Toyeeb Adekunle Abd'Azeez,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.659,1,21h
+527,Nancy,https://storage.googleapis.com/kaggle-avatars/thumbnails/4377000-kg.jpg,expert,0.65976,2,5d
+528,Simplynadya,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.65991,1,7h
+529,Mahendra,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.6608,1,4d
+530,Avishek Saha,https://storage.googleapis.com/kaggle-avatars/thumbnails/6881935-kg.jpg,contributor,0.66084,2,1d
+531,nikubanare,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.66123,1,5d
+532,Jasmeen Dahak,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.66144,8,5d
+533,Shivam,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.66226,1,1d
+534,Wadahack,https://storage.googleapis.com/kaggle-avatars/thumbnails/11061313-gr.jpg,novice,0.66285,3,6d
+535,Jaeuk Han,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.66449,4,2h
+536,Gadget,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.66452,3,5d
+537,Saqib Tech,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.66461,2,4d
+538,Nick Velychko,https://storage.googleapis.com/kaggle-avatars/thumbnails/4024560-kg.png?t=2023-08-25-12-25-44,contributor,0.66464,5,16h
+539,dvdcar,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.665,3,11h
+540,t_murmt,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.66573,1,5d
+541,SRDdev,https://storage.googleapis.com/kaggle-avatars/thumbnails/11333569-kg.jpg?t=2023-09-20-09-42-40,expert,0.66711,2,1d
+542,Keyi Li,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.66724,5,6d
+543,Ishwarya Jeyakumar,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.6675,7,3d
+544,likeyiyi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.66875,3,6d
+545,Abishek,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.66891,1,3d
+546,arjunreddyp,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.66899,1,7d
+547,MOHAN,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.6695,3,3d
+548,Zomba,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.67314,5,3d
+549,Aina Temiloluwa,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.67658,5,19h
+550,GARV PATIDAR,https://storage.googleapis.com/kaggle-avatars/thumbnails/9068388-kg.jpg,novice,0.67665,1,4d
+551,AndreasN,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.67807,1,3d
+552,HRKumar,https://storage.googleapis.com/kaggle-avatars/thumbnails/1878490-kg.jpg,contributor,0.6801,1,1d
+553,Benorli,https://storage.googleapis.com/kaggle-avatars/thumbnails/12259945-kg.jpg,contributor,0.68357,1,15h
+554,miyu.k1aras@gmail.com,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.68422,2,4h
+555,MathewShuvarikov,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.68423,6,6d
+556,Suriya J,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.68467,1,3d
+557,yscho,https://storage.googleapis.com/kaggle-avatars/thumbnails/4500939-kg.JPG?t=2023-10-28-11-52-41,expert,0.685,1,3d
+558,smrutiranjan samal,https://storage.googleapis.com/kaggle-avatars/thumbnails/7478497-gr.jpg,contributor,0.68547,1,1d
+559,Lucas A S Carvalho,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.6872,1,15h
+560,SANDEEP BORA,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.68785,3,1d
+561,adithya giri,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.69,4,21h
+562,Arata Ueda,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.69145,2,10h
+563,kunal,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.69278,1,4d
+564,Naoya,https://storage.googleapis.com/kaggle-avatars/thumbnails/2436371-kg.jpg?t=2023-10-08-09-25-46,expert,0.69393,1,43m
+565,Modekurthy Venkata Surya Sunil,https://storage.googleapis.com/kaggle-avatars/thumbnails/65483-fb.jpg,contributor,0.69589,1,5h
+566,yutosuzu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.69902,1,6d
+567,Edward Flores,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.6995,5,3d
+568,GuRongQi999,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.69966,5,16m
+569,Peter Denman,https://storage.googleapis.com/kaggle-avatars/thumbnails/17678160-kg.png?t=2023-11-10-04-45-56,novice,0.7,2,5d
+570,Firdavs Elomonov,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.7,2,3d
+571,s20215018,https://storage.googleapis.com/kaggle-avatars/thumbnails/17590693-gr.jpg,novice,0.7,3,5h
+572,Grace Tianqing Liu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.7,1,10h
+573,Saurabh Upadhyay,https://storage.googleapis.com/kaggle-avatars/thumbnails/13579851-kg.jpeg?t=2023-10-04-07-49-42,expert,0.702,3,3d
+574,yunjian wang,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.70232,3,12h
+575,Brian Shula,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.70275,3,9h
+576,Xavier BARBIER,https://storage.googleapis.com/kaggle-avatars/thumbnails/5260290-kg.jpg,novice,0.70554,2,1h
+577,Janico Greifenberg,https://storage.googleapis.com/kaggle-avatars/thumbnails/10186443-kg.png,novice,0.70793,3,1d
+578,David Brown,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.71179,3,6d
+579,Saparbai Kaznabekov,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.71399,3,4d
+580,The Data Dream,https://storage.googleapis.com/kaggle-avatars/thumbnails/7934753-kg.jpeg,contributor,0.714,1,1d
+581,nicapotato,https://storage.googleapis.com/kaggle-avatars/thumbnails/866788-kg.jpg,master,0.71809,2,4d
+582,Tandaradie,https://storage.googleapis.com/kaggle-avatars/thumbnails/129092-gr.jpg,contributor,0.72324,2,17h
+583,chasepd,https://storage.googleapis.com/kaggle-avatars/thumbnails/16195632-kg.jpg?t=2023-10-17-06-29-03,contributor,0.7239,4,11h
+584,Stefano Antinori,https://storage.googleapis.com/kaggle-avatars/thumbnails/1818626-gp.jpg,contributor,0.73058,1,34m
+585,CareforData,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.73199,2,15h
+586,Nico Barea,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.73368,8,6h
+587,OniTung,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.73419,2,5d
+588,BruceWayne,https://storage.googleapis.com/kaggle-avatars/thumbnails/3381900-kg.jpg,novice,0.73504,1,5d
+589,Shobhit Sharma,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.73649,1,5d
+590,Tolulope Elijah,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.73699,2,4d
+591,RyoMuta,https://storage.googleapis.com/kaggle-avatars/thumbnails/16420070-kg.png?t=2023-09-12-15-00-30,novice,0.738,5,3d
+592,Yohan Schenck,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.739,2,3m
+593,pzx,https://storage.googleapis.com/kaggle-avatars/thumbnails/6469200-kg.jpg?t=2023-10-03-04-06-07,expert,0.74003,2,6d
+594,Eric Ho,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.74288,1,4d
+595,Maxime Rondeau,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.747,1,2h
+596,datalicious,https://storage.googleapis.com/kaggle-avatars/thumbnails/4999926-kg.jpg,expert,0.757,1,19h
+597,poornika bonam,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.7596,3,3d
+598,Yugoff,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.76024,2,4d
+599,David Kogan,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.77574,1,11h
+600,RsqM,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.78301,5,1d
+601,vesel02,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.7855,7,3h
+602,JunsuJeong,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.80374,10,7h
+603,Tangsgo,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.81302,2,1d
+604,Brackly,https://storage.googleapis.com/kaggle-avatars/thumbnails/9019379-kg.jpeg,contributor,0.81809,2,3d
+605,Swayam Patil,https://storage.googleapis.com/kaggle-avatars/thumbnails/9472138-kg.png,expert,0.8288,3,1d
+606,Utkarsh Singh,https://storage.googleapis.com/kaggle-avatars/thumbnails/13364933-kg.jpg,expert,0.83427,1,6d
+607,Aju George Jacob,https://storage.googleapis.com/kaggle-avatars/thumbnails/5958529-gr.jpg,contributor,0.84721,1,6d
+608,Kingki19 / Muhammad Rizqi,https://storage.googleapis.com/kaggle-avatars/thumbnails/13696939-kg.jpg?t=2023-10-06-14-20-16,contributor,0.8516,5,1h
+609,Jay Rio,https://storage.googleapis.com/kaggle-avatars/thumbnails/7408597-kg.jpg?t=2023-10-14-07-30-26,novice,0.85199,2,1d
+610,David sosa olea,https://storage.googleapis.com/kaggle-avatars/thumbnails/13410223-kg.png,contributor,0.85199,2,12h
+611,Tracy Porter,https://storage.googleapis.com/kaggle-avatars/thumbnails/5286865-kg.jpg,expert,0.85253,7,3h
+612,Mutasov Dmitry,https://storage.googleapis.com/kaggle-avatars/thumbnails/11190531-kg.JPG?t=2023-09-11-10-18-31,novice,0.89826,1,6d
+613,ayoub chnaida,https://storage.googleapis.com/kaggle-avatars/thumbnails/14395529-kg.jpg,expert,0.91743,1,12h
+614,Roman Garayev,https://storage.googleapis.com/kaggle-avatars/thumbnails/3638527-kg.jpg,contributor,0.92348,1,6d
+615,Suraj,https://storage.googleapis.com/kaggle-avatars/thumbnails/9201105-kg.jpg?t=2023-11-13-07-15-16,expert,0.92384,1,6d
+616,Patrick Carlberg,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.93433,5,1d
+617,Kirderf,https://storage.googleapis.com/kaggle-avatars/thumbnails/3924325-kg.jpg,grand master,0.93616,1,22s
+618,Anand Tyagi,https://storage.googleapis.com/kaggle-avatars/thumbnails/6290454-gr.jpg,contributor,0.94894,2,18h
+619,Mistborn,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.95833,2,20h
+620,Alessandro Lucca,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.95923,2,3d
+621,GoshaK,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.96021,1,3d
+622,Kevin Alifviansyah,https://storage.googleapis.com/kaggle-avatars/thumbnails/17502296-kg.jpg?t=2023-11-01-07-42-15,novice,0.9767,4,8h
+623,Jeongeum Son,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.98401,1,4d
+624,Muhammad yuda Maulana,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.98798,1,11h
+625,KohliJorawar,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.98798,2,11h
+626,Gloozd,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.9885,2,5d
+627,KunwarSingh11,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.9885,1,3d
+628,kdolgonosov,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.9885,1,1d
+629,Amri11,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.9885,1,5d
+630,Bhargav Kowshik,https://storage.googleapis.com/kaggle-avatars/thumbnails/5210536-kg.jpg,expert,0.9885,3,6h
+631,Mahendra Panwar,https://storage.googleapis.com/kaggle-avatars/thumbnails/675480-gp.jpg,novice,0.989,1,1d
+632,naga,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.99,1,1d
+633,Jing,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.99027,1,6d
+634,Amy Gottlieb,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.99028,1,4d
+635,Karan S,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,0.99099,5,1d
+636,SATYAM SINGH,https://storage.googleapis.com/kaggle-avatars/thumbnails/13331810-kg.png?t=2023-11-01-18-44-46,contributor,0.99264,5,5d
+637,乌鸦祭酒,https://storage.googleapis.com/kaggle-avatars/thumbnails/14520138-kg.jpg,novice,0.99345,1,3d
+638,jazzz chen,https://storage.googleapis.com/kaggle-avatars/thumbnails/15642104-gr.jpg,novice,0.99456,1,1d
+639,Sai Praveen Reddy Allam,https://storage.googleapis.com/kaggle-avatars/thumbnails/13202186-gr.jpg,novice,0.99622,2,5d
+640,Danial Zakaria,https://storage.googleapis.com/kaggle-avatars/thumbnails/4495635-gr.jpg,contributor,0.9972,1,5d
+641,Akhil_donthula,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.99874,1,5d
+642,Ivan Guschin,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,0.99951,2,1d
+643,AvtandylRudenko,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,1.0,1,6d
+644,Mostafa Eid,https://storage.googleapis.com/kaggle-avatars/thumbnails/7225499-kg.jpg?t=2023-11-09-23-32-15,contributor,1.0,2,4d
+645,Pranav Agrawal,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,1.0,1,1d
+646,Johann Hibschman,https://storage.googleapis.com/kaggle-avatars/thumbnails/61051-gr.jpg,contributor,1.00241,1,1d
+647,Vishnu Gitta,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.01071,1,1h
+648,Ramakrishnan T,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,1.01106,1,22m
+649,Gurazeez Singh Battu,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.01241,2,21h
+650,Nets4Dayz,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.0381,8,4h
+651,Arpita Shenoy,https://storage.googleapis.com/kaggle-avatars/thumbnails/1955591-gp.jpg,contributor,1.03926,1,4d
+652,Bhavesh@tf,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.05085,1,16h
+653,Vivek Agrawal,https://storage.googleapis.com/kaggle-avatars/thumbnails/10843390-kg.png,contributor,1.05209,1,6d
+654,Shiki Rye,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.05518,1,12h
+655,Krishna Sharma,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.07591,3,4d
+656,Chaconne,https://storage.googleapis.com/kaggle-avatars/thumbnails/11472387-kg.jpg,contributor,1.07635,1,6d
+657,lijianwei417,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.11375,1,5h
+658,YeyeLeaf,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.15624,4,1d
+659,Atif Suhail,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.33201,5,3d
+660,Piplyang,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.353,1,4d
+661,inversion,https://storage.googleapis.com/kaggle-avatars/thumbnails/59561-kg.jpg,grand master,1.353,1,2d
+662,IlyassSaadi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.353,1,5h
+663,prash4nt,https://storage.googleapis.com/kaggle-avatars/thumbnails/9531654-kg.jpg?t=2023-08-26-10-41-33,contributor,1.353,1,5h
+664,Jean Machado,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.36619,1,3d
+665,Bruce Wayne,https://storage.googleapis.com/kaggle-avatars/thumbnails/1860833-kg.jpg?t=2023-09-14-22-09-39,contributor,1.55068,1,5d
+666,Fatma Nur ÇETİNTÜRK,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.59267,14,1d
+667,JayeshBhadane,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,1.61618,1,1d
+668,Kheirallah Samaha,https://storage.googleapis.com/kaggle-avatars/thumbnails/801148-kg.png?t=2023-11-17-12-27-41,master,1.65416,5,1h
+670,Raaggee Singh,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,1.81069,1,4d
+671,zaid_shami,https://storage.googleapis.com/kaggle-avatars/thumbnails/17197770-kg.jpg?t=2023-11-12-01-56-44,contributor,1.85313,1,3d
+672,Egambergan Atamuratov,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,contributor,1.92754,1,3d
+673,Alessia,https://storage.googleapis.com/kaggle-avatars/thumbnails/8628282-gr.jpg,contributor,2.08861,1,5m
+674,vishnu priya,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,2.10133,2,3d
+675,gabbit,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,2.13901,5,13h
+676,Aucorre,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,2.305,1,30m
+677,shuhetakahashi,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,2.8883,1,1d
+678,Himanshud143,https://storage.googleapis.com/kaggle-avatars/thumbnails/default-thumb.png,novice,2.91472,1,1h
+679,Alexdruso,https://storage.googleapis.com/kaggle-avatars/thumbnails/4012019-kg.jpg,contributor,3.5,1,5d
+680,Team +1,https://storage.googleapis.com/kaggle-avatars/thumbnails/14435659-kg.png,novice,3.8,1,3d
+681,Berkay Sag,https://storage.googleapis.com/kaggle-avatars/thumbnails/11783750-kg.png,contributor,5.02485,1,6d
+682,Vincent Bris.,https://storage.googleapis.com/kaggle-avatars/thumbnails/3773155-kg.jpg,contributor,6.4489,3,9h
