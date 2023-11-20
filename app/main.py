@@ -5,7 +5,8 @@ from helper import load_data, get_daily_submits, get_latest, get_daily_participa
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-st.set_page_config(layout='wide')
+st.set_page_config(page_title="Kaggle Leadearbord Stats",
+                   page_icon="📊", layout='wide')
 st.title(TITLE)
 df = load_data()
 multi = '''
@@ -54,4 +55,29 @@ plt.ylabel('Number of Participants')
 plt.legend(title='Kaggle Rank', bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.tight_layout()
 with col2:
+    st.pyplot(fig)
+
+multi = '''
+### Check Each Team Progress :eye:
+'''
+st.markdown(multi)
+latest['combined'] = latest['rank'].astype(str) + ' ' + latest['team_name']
+team_names_with_rank = latest['combined'].tolist()
+
+selected_teams = st.multiselect("Select team to display", team_names_with_rank)
+if len(selected_teams) > 0:
+    filtered_df = df[df['team_name'].isin(
+        [a.split(' ', 1)[-1] for a in selected_teams])]
+    fig, ax = plt.subplots(figsize=(12, 3))
+    sns.lineplot(filtered_df, x='date', y='rank',
+                 hue='team_name', marker="o")
+    plt.title('Kaggle Rank Progression')
+    plt.xticks(rotation=90)
+    st.pyplot(fig)
+
+    fig, ax = plt.subplots(figsize=(12, 3))
+    sns.lineplot(filtered_df, x='date', y='score',
+                 hue='team_name', marker="o")
+    plt.title('Kaggle Score Progression')
+    plt.xticks(rotation=90)
     st.pyplot(fig)
