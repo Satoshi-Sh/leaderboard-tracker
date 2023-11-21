@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-from constants import TITLE
+from constants import TITLE, LEADERBOARD_URL
 from helper import load_data, get_daily_submits, get_latest, get_daily_participants_by_rank
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -8,6 +8,9 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Kaggle Leadearbord Stats",
                    page_icon="📊", layout='wide')
 st.title(TITLE)
+link = f"[Leaderboard Link](f{LEADERBOARD_URL})"
+print(link)
+st.write(link)
 df = load_data()
 multi = '''
 ### latest data :up:
