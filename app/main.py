@@ -61,8 +61,8 @@ multi = '''
 ### Check Each Team Progress :eye:
 '''
 st.markdown(multi)
-latest['combined'] = latest['rank'].astype(str) + ' ' + latest['team_name']
-team_names_with_rank = latest['combined'].tolist()
+team_names_with_rank = [f"{rank} {team_name}" for rank, team_name in zip(
+    latest['rank'].astype(str), latest['team_name'])]
 
 selected_teams = st.multiselect("Select team to display", team_names_with_rank)
 if len(selected_teams) > 0:
