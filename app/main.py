@@ -9,7 +9,6 @@ st.set_page_config(page_title="Kaggle Leadearbord Stats",
                    page_icon="📊", layout='wide')
 st.title(TITLE)
 link = f"[Leaderboard Link](f{LEADERBOARD_URL})"
-print(link)
 st.write(link)
 df = load_data()
 multi = '''

@@ -24,7 +24,7 @@ def load_data():
     # Iterate through each file in the data folder
     for root, dirs, files in os.walk(data_folder_path):
         for file in files:
-            file_path = os.path.join('..', 'data', file)
+            file_path = os.path.join('data', file)
             df = pd.read_csv(file_path)
             # add date time from file name
             date_str = file.split('_')[-1].replace('.csv', '')
