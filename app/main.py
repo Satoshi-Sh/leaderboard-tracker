@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Kaggle Leadearbord Stats",
                    page_icon="📊", layout='wide')
 st.title(TITLE)
-link = f"[Leaderboard Link](f{LEADERBOARD_URL})"
+link = f"[Leaderboard Link]({LEADERBOARD_URL})"
 st.write(link)
 df = load_data()
 multi = '''
