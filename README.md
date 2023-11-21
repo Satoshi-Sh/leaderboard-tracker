@@ -19,6 +19,9 @@ This repository helps people track the public leaderboard progress of Kaggle Com
 - Run ```streamlit run main.py``` in the app folder
 - The app will be at http://localhost:8501
 
+### How to deploy Stramlit App
+Streamlit provides developers with a community cloud server. Just follow the instruction on the [link](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app) 
+
 ### Scraping Demo
 if you would like to see how selenium scrapes the data, you can comment out ```chrome_options.add_argument("--headless")``` in the scraper.py.
 After running ```pip install -r requirements.txt```, your can run scraper.py
