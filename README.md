@@ -17,12 +17,14 @@ This repository helps people track the public leaderboard progress of Kaggle Com
 - Clone the repo in your local machine
 - Update the app/constants.py with the title and url of Kaggle Competition you are tracking
 - In the root folder, run `pip install` on the virtual environment.
-- Run `streamlit run main.py` in the app folder
+- Run `streamlit run app/main.py` in the root folder
 - The app will be at http://localhost:8501
 
-### How to deploy Stramlit App
+### How to deploy Streamlit App
 
 Streamlit provides developers with a community cloud server. Just follow the instruction on the [link](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app)
+
+You can check live page [here](https://kaggle-leadearboard-tracker.streamlit.app/)
 
 ### Scraping Demo
 
