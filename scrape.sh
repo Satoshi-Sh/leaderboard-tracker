@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 cd ~/projects/leaderboard-tracker
 source venv/bin/activate
