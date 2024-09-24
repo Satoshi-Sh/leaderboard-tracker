@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from constants import LEADERBOARD_URL
 from selenium.webdriver.common.by import By
-from test_helper import click_load_more,scroll_to_last,process_li
+from result_helper import click_load_more,scroll_to_last,process_li
 import time
 from datetime import datetime
 

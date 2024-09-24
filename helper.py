@@ -98,8 +98,8 @@ def process_li(li):
             [imageUrl, highest_kaggle_rank] = get_data_from_image(
                 spans[3])
         score = float(spans[4].text)
-        submit_times = spans[5].text
-        last_submit = spans[6].text
+        submit_times = spans[6].text
+        last_submit = spans[7].text
         print({'rank': rank, 'team_name': team_name, 'avatar_url': imageUrl, 'highest_kaggle_rank': highest_kaggle_rank,
                'score': score, 'submit_times': submit_times, 'last_submit': last_submit})
         return {'rank': rank, 'team_name': team_name, 'avatar_url': imageUrl, 'highest_kaggle_rank': highest_kaggle_rank, 'score': score, 'submit_times': submit_times, 'last_submit': last_submit}
